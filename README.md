@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Mobile Game Dev
+- 🌱 I’m currently learning Graphics API
 
 <!--
 **garmede/garmede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
