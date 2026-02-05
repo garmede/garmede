@@ -2,7 +2,7 @@
 
 # Hi there, I'm Garmede! 👋
 
-### 🎮 Mobile Game Developer | Graphics Enthusiast
+### 🎮 Mobile Game Developer | Technical Artist
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Mobile+Game+Developer;Graphics+API+Explorer;Always+Learning+New+Things" alt="Typing SVG" />
 
